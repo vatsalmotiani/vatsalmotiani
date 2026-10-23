@@ -1,30 +1,65 @@
-# Hi, I'm Vatsal 👋
+<a href="https://vatsalmotiani.net">
+  <img src="assets/hero.webp" alt="Vatsal Motiani. Software designed to be remembered." width="100%">
+</a>
 
-I build fintech platforms, automation systems, and AI-powered products, with a focus on backend engineering and system design. 30+ production engagements and counting.
+<p align="center">
+  <a href="https://vatsalmotiani.net"><b>vatsalmotiani.net</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://linkedin.com/in/vatsalmotiani">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:vmmworking@gmail.com">vmmworking@gmail.com</a>
+</p>
 
-🌐 [vatsalmotiani.net](https://vatsalmotiani.net) · 💼 [LinkedIn](https://linkedin.com/in/vatsalmotiani) · ✉️ [vmmworking@gmail.com](mailto:vmmworking@gmail.com)
+<br>
+
+<img src="assets/manifesto.webp" alt="Anyone can make it work. I make it feel right, then lose sleep over the last 2px." width="100%">
+
+<br><br>
+
+I build fintech platforms, automation systems and AI products, end to end: system design, backend, interface and the details in between. 30+ production builds for national brands so far.
+
+<br>
 
 ## Selected work
 
-| Project | What it is |
+<a href="https://vatsalmotiani.net/work/mahindra-manulife">
+  <img src="assets/card-mahindra-manulife.webp" alt="Mahindra Manulife: the mutual fund platform of an AMC managing ₹35,000+ Cr" width="100%">
+</a>
+<a href="https://vatsalmotiani.net/work/jio-sentiment">
+  <img src="assets/card-jio-sentiment.webp" alt="Jio Signal: LLM sentiment intelligence for the Jio IPO" width="100%">
+</a>
+<a href="https://vatsalmotiani.net/work/spidermania">
+  <img src="assets/card-spidermania.webp" alt="Spidermania: Sony Pictures India's fan platform for Spider-Man: Brand New Day" width="100%">
+</a>
+<a href="https://vatsalmotiani.net/work/commodities-automation">
+  <img src="assets/card-commodities-automation.webp" alt="Trade Desk: shipment assessment cut from 3 months to 5 minutes" width="100%">
+</a>
+
+<details>
+<summary><b>More work</b></summary>
+<br>
+
+| | |
 | --- | --- |
-| [**Mahindra Manulife Mutual Fund**](https://vatsalmotiani.net/work/mahindra-manulife) | Backend for the mutual fund platform of an AMC managing ₹35,000+ Cr, plus a LangGraph investor assistant |
-| [**Jio IPO Sentiment**](https://vatsalmotiani.net/work/jio-sentiment) | LLM-driven sentiment intelligence with pgvector semantic search and live rollups |
-| [**Commodity Trading Automation**](https://vatsalmotiani.net/work/commodities-automation) | Shipment assessment and pricing cut from 3 months to under 5 minutes |
-| [**Spider-Man Fan Platform**](https://vatsalmotiani.net/work/spidermania) | Official fan platform for Marvel's *Spider-Man: Brand New Day*, with community forum and short-form video |
+| [**Influ-Finder**](https://vatsalmotiani.net/work/influ-finder) | Multi-agent influencer marketing: discovery, evaluation, pitching and outreach |
+| [**Clarify**](https://vatsalmotiani.net/work/clarify) | Upload a contract and get the red flags before you sign |
+| [**AR Try-On**](https://vatsalmotiani.net/work/ar-experiences) | Browser AR campaigns for Hershey's, Godrej and DS Group |
+| [**Paperless**](https://vatsalmotiani.net/work/paperless) | Any PDF, rebuilt as a book you can actually read on a phone |
+| [**Tones**](https://vatsalmotiani.net/work/tones) | A camera that pulls and names the five dominant colours of any scene |
+| [**Blogify**](https://vatsalmotiani.net/work/blogify) | YouTube video to finished blog post, in the language you choose |
 
-## Stack
+</details>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain%20%2F%20LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+<br>
+
+<img src="assets/toolkit.webp" alt="Toolkit: Node.js, Python, FastAPI, PostgreSQL, LangGraph, LangChain, Next.js, React, TypeScript, Flutter, Figma and more" width="100%">
+
+<br><br>
+
+<img src="assets/clients.webp" alt="Clients: Mahindra Manulife, Jio, JioHotstar, Sony Pictures, Godrej, Hershey's, DS Group, Glenmark, Royale Touche, Aanya" width="100%">
+
+<br><br>
+
+<p align="center">
+  <sub>Every project has a full case study at <a href="https://vatsalmotiani.net">vatsalmotiani.net</a>. Say hi at <a href="mailto:vmmworking@gmail.com">vmmworking@gmail.com</a>.</sub>
+</p>
