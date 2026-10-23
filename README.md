@@ -14,12 +14,12 @@ I build software that people remember: fintech platforms, automation systems and
 | ---: | --- |
 | **5,000** | GitHub contributions since 2021 |
 | **2,195** | Contributions in 2026 alone |
-| **1,080+** | Pull requests merged and reviewed into production codebases |
+| **1,080+** | Pull requests opened on production codebases |
 | **50+** | Products shipped |
 | **10+** | National brands, including Sony Pictures, Jio, JioHotstar, Mahindra Manulife, Godrej and Hershey's |
 | **3+ years** | Building production software full time |
 
-<sub>Most of my work lives in private client repositories, so the activity graph below shows only part of it.</sub>
+<sub>Counted across my personal and work GitHub accounts. Most of it lives in private client repositories.</sub>
 
 ---
 
