@@ -17,7 +17,7 @@ I build software that people remember: fintech platforms, automation systems and
 | **1,080+** | Pull requests opened on production codebases |
 | **50+** | Products shipped |
 | **10+** | National brands, including Sony Pictures, Jio, JioHotstar, Mahindra Manulife, Godrej and Hershey's |
-| **3+ years** | Building production software full time |
+| **Since 2023** | Building production software for clients |
 
 <sub>Counted across my personal and work GitHub accounts. Most of it lives in private client repositories.</sub>
 
