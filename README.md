@@ -1,9 +1,5 @@
 # Hi, I'm Vatsal 👋
 
-I build software that people remember: fintech platforms, automation systems and AI products, from system design and backend through to the last pixel of the interface.
-
-> *Anyone can make it work. I make it feel right, then lose sleep over the last 2px.*
-
 🌐 [vatsalmotiani.net](https://vatsalmotiani.net) · 💼 [LinkedIn](https://linkedin.com/in/vatsalmotiani) · ✉️ [vmmworking@gmail.com](mailto:vmmworking@gmail.com)
 
 ---
@@ -17,7 +13,6 @@ I build software that people remember: fintech platforms, automation systems and
 | **1,080+** | Pull requests opened on production codebases |
 | **50+** | Products shipped |
 | **10+** | National brands, including Sony Pictures, Jio, JioHotstar, Mahindra Manulife, Godrej and Hershey's |
-| **Since 2023** | Building production software for clients |
 
 <sub>Counted across my personal and work GitHub accounts. Most of it lives in private client repositories.</sub>
 
@@ -68,14 +63,14 @@ The official fan platform for Marvel's *Spider-Man: Brand New Day*, for Sony Pic
 
 | | |
 | --- | --- |
-| **Languages** | Python, TypeScript, JavaScript, SQL, Dart, PHP |
-| **Backend** | Node.js, Express, FastAPI, Laravel |
-| **Data** | PostgreSQL, MySQL, MSSQL, MongoDB, Supabase, pgvector |
-| **AI** | LangGraph, LangChain, RAG, multi-agent systems, MediaPipe |
-| **Frontend** | Next.js, React, Tailwind CSS, GSAP, Framer Motion, Three.js |
-| **Mobile** | Flutter |
-| **Cloud & DevOps** | AWS (EC2, S3, RDS, CloudFront), Docker, GitHub Actions |
-| **Design** | Figma, Photoshop, Illustrator |
+| **Languages** | <img src="https://skillicons.dev/icons?i=py,ts,js,dart,php" height="40" alt="" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,laravel" height="40" alt="" /> |
+| **Data** | <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase" height="40" alt="" /> |
+| **AI** | <img src="https://cdn.simpleicons.org/langchain" height="40" title="LangChain" alt="LangChain" /> <img src="https://cdn.simpleicons.org/mediapipe" height="40" title="MediaPipe" alt="MediaPipe" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,threejs" height="40" alt="" /> <img src="https://cdn.simpleicons.org/greensock" height="40" title="GSAP" alt="GSAP" /> <img src="https://cdn.simpleicons.org/framer" height="40" title="Framer Motion" alt="Framer Motion" /> |
+| **Mobile** | <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="" /> |
+| **Cloud & DevOps** | <img src="https://skillicons.dev/icons?i=aws,docker,githubactions" height="40" alt="" /> |
+| **Design** | <img src="https://skillicons.dev/icons?i=figma,ps,ai" height="40" alt="" /> |
 
 ---
 
